@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Solo wwebsites es la gente</title>
+  <title>Solo websites es la gente</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1>Welcome to My Website!</h1>
